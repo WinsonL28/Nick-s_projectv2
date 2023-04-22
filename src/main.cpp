@@ -84,5 +84,6 @@ void autonomous() {}
  */
 void opcontrol() {
 		driveFEncode(126);
+		driveFEncode(126);
 	}
 	
